@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# MNE data
+mne_data/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# MNE data
+mne_data/
+
+# OS metadata
+.DS_Store
+Thumbs.db
